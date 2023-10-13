@@ -4,3 +4,11 @@
 - Yasser Alnader (Student #: 300072599)
 - Ranbir Brar (Student #: 300116072)
 
+## Tools:
+- Github & Github Wiki
+- Markdown
+- Zoom
+- Discord
+- Outlook
+
+
