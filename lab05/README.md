@@ -6,6 +6,7 @@
 
 ## Tools:
 - Github & Github Wiki
+- Google Docs
 - Markdown
 - Zoom
 - Discord
